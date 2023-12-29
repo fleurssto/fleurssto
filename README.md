@@ -6,6 +6,8 @@
 
 - :seedling: I’m currently learning C, C++, C#
 
-- I’m looking for help with JavaScript and C#
+- 🤔 I’m looking for help with JavaScript and C#
 
-- :mailbox:How to reach me: (https://img.freepik.com/vecteurs-premium/nouveau-logo-twitter-x-2023-telechargement-vectoriel-du-logo-twitter-x_691560-10809.jpg) (x.com/fleurs048) and jivelnimourre@gmail.com
+- 💬 Ask me about PHTML and CSS
+
+- :mailbox: How to reach me: x.com/fleurs048 and jivelnimourre@gmail.com
