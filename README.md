@@ -10,4 +10,4 @@
 
 - 💬 Ask me about PHTML and CSS
 
-- :mailbox: How to reach me: x.com/fleurs048 and jivelnimourre@gmail.com
+- :mailbox: How to reach me: @fleurs048 on 𝕏 and jivelnimourre@gmail.com
